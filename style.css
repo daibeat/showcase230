@@ -8,13 +8,15 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  
 
 }
 
-body img {
+body {
   filter: blur(8px);
   -webkit-filter: blur(3px);
 }
+
 
 h1 {
   font-size: 3rem;
