@@ -11,6 +11,11 @@ html {
 
 }
 
+body img {
+  filter: blur(8px);
+  -webkit-filter: blur(3px);
+}
+
 h1 {
   font-size: 3rem;
   color: black;
